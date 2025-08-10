@@ -1,4 +1,6 @@
-Hi. I'm mist.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Mist!;Welcome+to+My+GitHub!;Please+Contact" />
+</div>
 
 A highly skilled Full Stack Engineer with deep expertise in blockchain and DeFi systems, currently focused on Bitcoin protocols including PSBTs, DLCs, Tapscript, and Multisigs. Specialized in building secure, scalable, and high-performance backend architectures. Proven track record of delivering innovative solutions and collaborating effectively with cross-functional teams to advance blockchain technology.
 
