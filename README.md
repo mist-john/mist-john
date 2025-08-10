@@ -1,4 +1,5 @@
-Hi. I'm mist
+Hi. I'm mist.
+
 A highly skilled Full Stack Engineer with deep expertise in blockchain and DeFi systems, currently focused on Bitcoin protocols including PSBTs, DLCs, Tapscript, and Multisigs. Specialized in building secure, scalable, and high-performance backend architectures. Proven track record of delivering innovative solutions and collaborating effectively with cross-functional teams to advance blockchain technology.
 
 
