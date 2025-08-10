@@ -54,4 +54,5 @@ A highly skilled Full Stack Engineer with deep expertise in blockchain and DeFi 
 - ShadowExchange Volume Bot (Sonic chain)
 - Uniswap Volume Bot
 
-  ![](http://discord.com/users/1381697505649102991).
+- [**Discord**](http://discord.com/users/1381697505649102991)
+  ![]().
