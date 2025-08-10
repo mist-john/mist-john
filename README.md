@@ -53,3 +53,5 @@ A highly skilled Full Stack Engineer with deep expertise in blockchain and DeFi 
 - Pancakeswap Volume Bot (Binance Smart chain)
 - ShadowExchange Volume Bot (Sonic chain)
 - Uniswap Volume Bot
+
+  ![](http://discord.com/users/1381697505649102991).
