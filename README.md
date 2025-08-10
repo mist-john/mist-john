@@ -30,8 +30,6 @@ A highly skilled Full Stack Engineer with deep expertise in blockchain and DeFi 
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-## Chains I am working on
-Solana, Ethereum, Cronos, Zetachain, Avalanche, BSC, Base, Sui, Abstract, Sonic
 
 ## Recent works
 - Pumpfun forking project(Smart contract, Backend, Frontend)
