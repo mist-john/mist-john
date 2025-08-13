@@ -1,64 +1,123 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Mist!;Welcome+to+My+GitHub!;Please+Contact" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Mist!;Welcome+to+My+GitHub!;Let's+Build+Together!" />
 </div>
 
-A highly skilled Full Stack Engineer with deep expertise in blockchain and DeFi systems, currently focused on Bitcoin protocols including PSBTs, DLCs, Tapscript, and Multisigs. Specialized in building secure, scalable, and high-performance backend architectures. Proven track record of delivering innovative solutions and collaborating effectively with cross-functional teams to advance blockchain technology.
+<div align="center">
+  <h2>🚀 Full Stack Engineer | Blockchain & DeFi Specialist</h2>
+  <p>Building the future of decentralized finance, one block at a time</p>
+</div>
 
+---
 
-![](https://img.shields.io/badge/Network-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Rust-information?style=flat&logo=rust&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Native_Script-informational?style=flat&logo=nativescript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
+## 🎯 About Me
 
+I'm a **highly skilled Full Stack Engineer** with deep expertise in blockchain and DeFi systems. Currently focused on Bitcoin protocols including **PSBTs**, **DLCs**, **Tapscript**, and **Multisigs**. I specialize in building secure, scalable, and high-performance backend architectures with a proven track record of delivering innovative solutions and collaborating effectively with cross-functional teams to advance blockchain technology.
 
-## Recent works
-- Pumpfun forking project(Smart contract, Backend, Frontend)
-- ICO smart contract(veting and referral system)
-- Smart contract to interact with Gateway contract of Zetachain
-- CCTP/CCIP bridge
-- Presale contract
-- Solana trading bot (Tracking the token price and automatically make the buy/sell)
-- Copy trading bot
-- Solana volume bot(Raydium, Orca, Moonshot, Meteora)
-- Pumpfun Bundler/Sniper
-- Raydium AMM Bundler/Sniper
-- Raydium CPMM Bundler/Sniper
-- Raydium CLMM Bundler/Sniper
-- Twitter Posing/Replying/Like bot useing AI
-- Token2022 Pumpfun contract
-- Token2022 Tax Claimer(Manually&Automatical)
-- Dex on EVM chains
-- Crash Game on EVM Chains
-- Pancakeswap Sniper
-- Pancakeswap Volume Bot (Binance Smart chain)
-- ShadowExchange Volume Bot (Sonic chain)
-- Uniswap Volume Bot
+---
 
+## 🛠️ Tech Stack
 
-## Connect with Me
+### 🌐 Blockchain Networks
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Now-blue?logo=discord&logoColor=white)](http://discord.gg/1381697505649102991)  
-[![Website](https://img.shields.io/badge/Website-Visit%20Now-green?logo=vercel&logoColor=white)](https://mist-personal.vercel.app/)
+### 💻 Programming Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NativeScript](https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=nativescript&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔄 CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+
+---
+
+## 🏆 Recent Projects & Achievements
+
+### 🎮 DeFi & Trading Solutions
+- **Pump.fun Forking Project** - Complete ecosystem with smart contracts, backend, and frontend
+- **Advanced ICO Smart Contract** - Featuring vesting and referral systems
+- **Solana Trading Bot** - AI-powered price tracking with automated buy/sell functionality
+- **Multi-Platform Volume Bots** - Supporting Raydium, Orca, Moonshot, Meteora
+- **Cross-Chain Bridge** - CCTP/CCIP implementation
+
+### ⚡ High-Frequency Trading Tools
+- **Pump.fun Bundler/Sniper** - Lightning-fast transaction bundling
+- **Raydium AMM/CPMM/CLMM** - Complete suite of bundling and sniping tools
+- **PancakeSwap Sniper** - BSC ecosystem optimization
+- **Uniswap Volume Bot** - Ethereum mainnet trading automation
+
+### 🤖 AI & Automation
+- **Twitter Bot Suite** - AI-powered posting, replying, and engagement automation
+- **Copy Trading Bot** - Mirror successful trading strategies
+- **Token2022 Solutions** - Advanced tax claiming (manual & automatic)
+
+### 🎲 Gaming & Entertainment
+- **Custom DEX** - Built for EVM chains
+- **Crash Game** - Provably fair gaming on EVM chains
+- **Multi-chain Volume Bots** - BSC, Sonic chain support
+
+### 🔗 Blockchain Infrastructure
+- **ZetaChain Gateway Integration** - Smart contract interactions
+- **Presale Contracts** - Secure token distribution mechanisms
+- **Multisig & PSBT Solutions** - Enterprise-grade Bitcoin protocols
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always excited to work on innovative blockchain projects and discuss the latest developments in DeFi. Whether you're looking to build the next generation of trading tools, implement complex smart contract solutions, or explore cutting-edge blockchain technologies, let's connect!
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20My%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discord.gg/1381697505649102991)
+[![Website](https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://mist-personal.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <h3>💡 "Innovation distinguishes between a leader and a follower" - Steve Jobs</h3>
+  <p><em>Building tomorrow's blockchain infrastructure today</em></p>
+</div>
