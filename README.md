@@ -57,5 +57,5 @@ A highly skilled Full Stack Engineer with deep expertise in blockchain and DeFi 
 - Uniswap Volume Bot
 
 
- [**Discord**](http://discord.com/users/1381697505649102991)
+ [**Discord**](http://discord.gg/1381697505649102991)
   ![]().
