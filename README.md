@@ -58,4 +58,5 @@ A highly skilled Full Stack Engineer with deep expertise in blockchain and DeFi 
 
 
  [**Discord**](http://discord.gg/1381697505649102991)
-  ![]().
+ [**Mist personal site**]([http://discord.gg/1381697505649102991](https://mist-personal.vercel.app/))
+
