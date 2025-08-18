@@ -106,13 +106,3 @@ I'm always excited to work on innovative blockchain projects and discuss the lat
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <h3> "Innovation distinguishes between a leader and a follower" - Steve Jobs</h3>
-  <p><em>Building tomorrow's blockchain infrastructure today</em></p>
-</div>
