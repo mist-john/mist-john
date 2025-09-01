@@ -88,11 +88,10 @@ I'm a **highly skilled Full Stack Engineer** with deep expertise in blockchain a
 ---
 
 ## 📊 My GitHub Stats
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mist-john&theme=github)
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=mist-john&show_icons=true&theme=tokyonight&line_height=27">
 </p>
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mist-john&theme=github)
-
 ---
 
 ##  Let's Connect & Collaborate
