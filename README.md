@@ -100,7 +100,7 @@ I'm always excited to work on innovative blockchain projects and discuss the lat
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20My%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discord.gg/1381697505649102991)
+[![Discord](https://img.shields.io/badge/Discord-Join%20My%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discord.gg/317506202877820949)
 [![Website](https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://mist-personal.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
